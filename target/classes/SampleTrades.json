@@ -1,0 +1,22 @@
+[
+  {
+    "cusip": null,
+    "secSID": 1,
+    "maturityDate": "2031-03-05"
+  },
+  {
+    "cusip": null,
+    "secSID": 2,
+    "maturityDate": "2027-03-05"
+  },
+  {
+    "cusip": null,
+    "secSID": 6,
+    "maturityDate": "2019-12-06"
+  },
+  {
+    "cusip": null,
+    "secSID": 7,
+    "maturityDate": "2022-03-04"
+  }
+]
